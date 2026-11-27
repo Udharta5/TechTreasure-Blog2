@@ -1,5 +1,5 @@
 
-# TechTreasure Blog — Design Guide
+# TechTreasure Blog - Design Guide
 
 ## Theme
 Retro cartoon-style website.
@@ -17,9 +17,8 @@ Headings are bold and colorful.
 ## Layout Strategy
 The homepage introduces the website.
 The blog page contains technology articles.
-Navigation links allow users to move between pages.
+Navigation links connect the pages.
 
 ## Design Goal
 The website uses bright colors and a playful
-style to make technology interesting and easy
-to explore.
+style to make technology fun and interesting.
